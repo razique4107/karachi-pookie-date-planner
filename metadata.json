@@ -1,0 +1,6 @@
+{
+  "name": "Little Date Invitation",
+  "description": "A charming, romantic date invitation website with playful questions, curated choices, and sweet confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
